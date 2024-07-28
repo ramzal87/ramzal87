@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammed Ramzal
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Muhammed Ramzal
 =======================================================================================================================================
 
-Software Developer / Data Science Enthusiast
+Software Developer / Data Engineer
 ----------------------------
 
 Data-driven dreamer & code crafter transforming bytes into insights!, Fluent in Python, SQL, Excel and .Net. Turning data chaos into organized magic!
